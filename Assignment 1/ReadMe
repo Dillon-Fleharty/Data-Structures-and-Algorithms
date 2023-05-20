@@ -1,0 +1,8 @@
+
+Assignment Tasks
+
+■	Thoroughly study and make sure to fully understand the starter header file IntSet.h and the supplied test driver file Assign01.cpp 
+  you shouldn't have to make any changes to this file. (Be sure to check with me first if you feel strongly that you have to make 
+  additions or changes to these files
+■	Implement all the functions whose specifications appear in IntSet.h. 
+■	Compile (using IntSet.h, IntSet.cpp and Assign01.cpp), test (using appropriate test cases), debug, . . .
