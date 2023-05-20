@@ -3,7 +3,7 @@
 Various projects completed as part of the assigned material in CS3358. Taken Spring 2023 with Dr. Lee Koh.
 
 
-Course Objectives:
+'''Course Objectives''':
 
 Understanding Abstract Data Types: motivations and basic concepts.
 
